@@ -14,10 +14,10 @@ TO RUN THE program
 7. In the "front" folder, type in: "npm run dev"
 8. In the "back" folder type in: "npm start"
 
-The major files I have written are:
+The major files I have written are:<br />
 
-front/App.vue (main Vue instance)
-front/Device.vue (componenets to represent device's data)
-back/app.js (backend file to control and monitor hardware)
+front/App.vue (main Vue instance)<br />
+front/Device.vue (componenets to represent device's data)<br />
+back/app.js (backend file to control and monitor hardware)<br />
 
 Note that all the hardware commands (back/app.js) have been commented out to allow the application to work with just the test data.
