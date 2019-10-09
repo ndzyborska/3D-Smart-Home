@@ -17,7 +17,7 @@ TO RUN THE program
 The major files I have written are:
 
 front/App.vue (main Vue instance)
-front/Device.vue (componenets to represnet devices data points)
-back/app.js
+front/Device.vue (componenets to represent device's data)
+back/app.js (backend file to control and monitor hardware)
 
 Note that all the hardware commands (back/app.js) have been commented out to allow the application to work with just the test data.
