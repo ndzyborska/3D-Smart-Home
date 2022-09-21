@@ -32,7 +32,7 @@
     "vue-socket.io": "^3.0.7",
     "vue-svg-transition": "^0.2.1",
     "vue-switches": "^2.0.1",
-    "vuetify": "^2.0.1",
+    "vuetify": "^2.6.10",
     "weekstart": "^1.0.0"
   },
   "devDependencies": {
